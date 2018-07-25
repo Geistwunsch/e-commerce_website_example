@@ -1,0 +1,110 @@
+body {
+  padding-top: 3%;
+}
+
+.dropdown-menu {
+  background-color: rgba(220, 220, 255, 0.95);
+  width: 100%;
+}
+
+.btn-center {
+  align-self: center;
+}
+
+img {
+  height: 30%;
+  width: 30%;
+  margin: 3%;
+  border-radius: 25%;
+  border-color: blue;
+  border-width: thin;
+  border-style: solid;
+}
+
+#logoText {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  background-image: url(../img/lorem-ipsum.png);
+  background-repeat: no-repeat;
+  background-size: 27%;
+  top: -0.1%;
+  left: 43%;
+}
+
+h4 {
+  margin-top: 10%;
+}
+
+.blue_overlay {
+  height: 100%;
+  width: 100%;
+  background-color: rgba( 0, 0, 255, 0.15);
+}
+
+#headerWrap {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 85vh;
+  background-image: url(../img/backgrounds/garage.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+#searchImg {
+  position: absolute;
+  height: 40vh;
+  width: 30%;
+  background-image: url(../img/search.png);
+  background-size: auto 40vh;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  top: 65%;
+  left: 75%;
+}
+
+#searchImg > input {
+  border: 0;
+  outline: none;
+  background-color: rgba(255, 0, 0, 0);
+  color: white;
+  font-size: 45px;
+  margin-top: 17%;
+  margin-left: 20%;
+  transition: color 0.7s;
+
+}
+
+#searchImg > input:hover {
+  color: rgba(0, 0, 255, 0.5);
+  cursor: pointer;
+}
+
+article {
+  padding: 1.5%;
+  text-align: center;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 5px;
+  color: blue;
+}
+
+#searchField {
+  height: 10%;
+  width: 50%;
+  margin-left: 1%;
+  margin-top: 50%;
+  opacity: 0.4;
+  font-size: 250%;
+}
