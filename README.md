@@ -1,4 +1,10 @@
 # e-commerce_website_example
 E-commerce website example for portfolio purposes. 
 
-<i>jQuery, bootstrap, HTML/CSS/JavaScript, PHP, MySQL.</i>
+<ul>
+  <li>HTML/CSS/JavaScript</li>
+  <li>PHP</li>
+  <li>jQuery</li>
+  <li>bootstrap</li>
+  <li>MySQL</li>
+</ul>
