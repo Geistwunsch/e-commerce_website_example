@@ -8,3 +8,5 @@ E-commerce website example for portfolio purposes.
   <li>bootstrap</li>
   <li>MySQL</li>
 </ul>
+
+<i>All images were taken from pixabay.com, a website for sharing public domain photos (Creative Commons CC0 license).<i>
