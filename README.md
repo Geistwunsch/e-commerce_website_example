@@ -9,4 +9,4 @@ E-commerce website example for portfolio purposes.
   <li>MySQL</li>
 </ul>
 
-<i>All images were taken from pixabay.com, a website for sharing public domain photos, illustrations, vector graphics, and film footage (Creative Commons CC0 license).</i>
+<i>All images were taken from <b>pixabay.com</b>, a website for sharing public domain photos, illustrations, vector graphics, and film footage (Creative Commons CC0 license).</i>
